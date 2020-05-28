@@ -1,6 +1,6 @@
 # Django-personal-website
 
-This is a Django-based personal website I created for myself.
+Django-based personal website, please keep the credential if you reuse it for any purposes.
 
 # Installation and Running
 
