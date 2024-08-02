@@ -1,6 +1,6 @@
 # Django-personal-website
 
-Django-based personal website, please keep the credential if you reuse it for any purposes.
+Django-based personapython -m pip install Djangol website, please keep the credential if you reuse it for any purposes.
 
 # Installation and Running
 
